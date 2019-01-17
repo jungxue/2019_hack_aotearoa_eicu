@@ -6,11 +6,7 @@ Materials for the eICU Collaborative Research Database tutorial at [Hack Aotearo
 
 ## Introduction
 
-The interactive workshop explores the details of the [eICU Collaborative Research Database](https://eicu-crd.mit.edu/) and reviews how a research network to advance critical care research was created across hundreds of unaffiliated hospitals. 
-
-The eICU Collaborative Research Database consists of a representative sample of the eICU Research Institute data which includes granular, clinical and outcomes data from over 3.5 million ICU patients. The inclusion of detailed vital signs, archived in 5 minute median values, from bedside monitors for all patients creates a unique opportunity to evaluate vital sign trends and short-term responses to critical care treatments. 
-
-Challenges in working with large, multicentre databases will be discussed and unique insights into interpreting data within the eICU Collaborative Research Database will be provided. The database is now freely available to the public and is currently used for the development of advanced clinical decision support tools as well as epidemiology and other academic research projects.
+The interactive workshop explores the [eICU Collaborative Research Database](https://eicu-crd.mit.edu/), a research database created from hundreds of unaffiliated hospitals across the USA. The database is now freely available to the public and is currently used for the development of advanced clinical decision support tools as well as epidemiology and other academic research projects.
 
 ## Open in Colab
 
