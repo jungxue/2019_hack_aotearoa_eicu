@@ -25,3 +25,10 @@ Notebook 6: Mortality prediction. <a href="https://colab.research.google.com/git
 Notebook 7: Acute kidney injury. <a href="https://colab.research.google.com/github/MIT-LCP/2019_hack_aotearoa_eicu/blob/master/07_aki_project.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 Notebook 8: Project work. <a href="https://colab.research.google.com/github/MIT-LCP/2019_hack_aotearoa_eicu/blob/master/08_project_work.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+
+---
+
+##Note
+
+project_id='physionet-data'
