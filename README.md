@@ -36,3 +36,7 @@ project_id='physionet-data'
 mimiciii-demo
 
 need to learn more about Apache
+
+https://eicu-crd.mit.edu/ eICU collaborative reserach data base
+
+https://mimic.physionet.org/ MIMIC critical care database
