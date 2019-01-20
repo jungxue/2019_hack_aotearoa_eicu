@@ -29,14 +29,22 @@ Notebook 8: Project work. <a href="https://colab.research.google.com/github/MIT-
 
 ---
 
-##Note
+## Notes from workshop
 
+Can try and play with different datasets 
+
+```python
 project_id='physionet-data'
+project_id='new-zealand-2018-datathon'
+project_id='mimiciii-demo'
+```
+Need to learn more about Apache
 
-mimiciii-demo
+- Apache 4 score [Calculator](https://intensivecarenetwork.com/Calculators/Files/Apache4.html)
+- Apache 4 score [Evaluation](https://insights.ovid.com/crossref?an=00003246-200605000-00001)
+- Apache 4 score algorithm (cant find)
+Useful websites
 
-need to learn more about Apache
-
-https://eicu-crd.mit.edu/ eICU collaborative reserach data base
-
-https://mimic.physionet.org/ MIMIC critical care database
+- [eICU collaborative reserach data base](https://eicu-crd.mit.edu/)
+- [MIMIC critical care database](https://mimic.physionet.org/)
+- [Auckland Bioenginnering Institude](https://www.auckland.ac.nz/en/abi.html)
